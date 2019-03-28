@@ -15,6 +15,6 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:Cpu/Attribute:NbCore' => 'Nombre de coeurs du CPU',
 	'Class:Cpu/Attribute:HT' => 'CPU HyperThreadé',
 	'Class:Cpu/Attribute:servers_list' => 'Serveurs',
-	'Class:Server/Attribute:cpu_id' => 'modèle de CPU',
+	'Class:Server/Attribute:cpu_id' => 'Modèle de CPU',
 ));
 ?>
