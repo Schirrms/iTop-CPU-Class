@@ -5,7 +5,7 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'schirrms-cpu-class/1.1.1',
+	'schirrms-cpu-class/1.1.2',
 	array(
 		// Identification
 		//
