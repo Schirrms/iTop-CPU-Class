@@ -19,4 +19,4 @@ You can also have the list of Servers using this CPU :
 ![CPU Servers List](images/CPU-Servers-List.png)
 
 # Installation
-As for all my extentions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
+As for all my extensions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
